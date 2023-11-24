@@ -5,28 +5,28 @@
         "py-tgcalls",
         "pyrogram"
     ],
-    "website": "https://t.me/DevZaid",
+    "website": "https://t.me/k5kil",
     "repository": "https://github.com/x72x/quran-radio",
-    "success_url": "https://t.me/Y88F8",
+    "success_url": "https://t.me/k5kil",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "API_HASH": {
             "description": "قم بوضع الايبي هاش",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "SESSION_STRING": {
             "description": "قم بوضع كود الجلسة بايروجرام 2.0",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "CHAT_ID": {
             "description": "قم بوضع ايدي قناتك",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "CHANNEL_USERNAMWE": {
